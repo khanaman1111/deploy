@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    height: 200px;
+    width: 400px;
+   color: whitesmoke;
+    /* margin: auto; */
+    /* with 2 value */
+    /* margin: 20px 20px; */
+    /* with 3 value */
+    margin: 20px 20px 20px;
+    /* padding with auto */
+    /* padding: auto; */
+    /* padding with 2 value */
+    /* padding: 20px 30px; */
+    /* padding individual  */
+    padding: 20px 30px 20px 40px;
+    /* overflow hidden!!! */
+    /* overflow: hidden; */
+    /* overflow with scroll */
+    overflow: scroll;
+    /* overflow: visible; */
+    /* overflow: auto;  */
+    border-radius: 0px 40px ; 
+    background-image: url(https://images.squarespace-cdn.com/content/v1/63ceaffd33529a45e572bf90/732df115-7010-4493-9031-240c2b59bde4/Mikko-Lagerstedt-Crash.jpg);
+}
+
